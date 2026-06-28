@@ -1,7 +1,6 @@
 import os
 import sqlite3
 import streamlit as st
-import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 # 1. Initialize local Database configuration tracking logs
