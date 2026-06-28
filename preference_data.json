@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "Write a python print statement.",
+    "chosen": "You can print text in Python using: print('Hello World')",
+    "rejected": "Python is a programming language created by Guido van Rossum."
+  },
+  {
+    "prompt": "How do I boil an egg?",
+    "chosen": "Place the egg in boiling water for 6 to 10 minutes.",
+    "rejected": "Eggs come from chickens and are oval."
+  }
+]
