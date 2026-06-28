@@ -1,6 +1,4 @@
 import streamlit as st
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 
 # 1. Page Configuration setup
 st.set_page_config(page_title="RLHF AI Assistant", page_icon="🤖", layout="centered")
